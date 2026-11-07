@@ -1,0 +1,13 @@
+# Arquivos temporários
+.css-audit-profile/
+node_modules/
+.cache/
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+.env
+.env.local
